@@ -25,3 +25,13 @@ This project proposes a model for face detection using OpenCV DNN, TensorFlow, K
 
 This dataset could be used for developing new face mask detectors and performing several applications.
 
+## About this Dataset
+
+#### Context
+
+The data is from: https://github.com/opencv/opencv/tree/master/data/haarcascades, included here for easy usage with OpenCV from Kaggle Kernels.
+
+### Content
+
+Haar Cascades for Face, Profile, Eyes, Smile, Upper Body Detection
+
